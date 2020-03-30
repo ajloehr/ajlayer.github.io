@@ -1,5 +1,5 @@
 # Site settings
-name: Andrew (AJ) Loehr
+name: AJ Loehr
 email: ajloehr7@gmail.com
 #canonical_url: https://edwinexemplar.com
 keywords: "Software Engineer, Python, Machine Learning, Deep Learning, Startups, Agile, Pair Programming, Algorithms, C++, Java, Server, Database, Linux"
@@ -11,7 +11,8 @@ baseurl:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/ajloehr
-  
+  - title: twitter
+    url: https://twitter.com/AjLoehr
     
 # Google webmaster tools
 google_verify:
